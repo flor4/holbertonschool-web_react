@@ -8,19 +8,19 @@ interface Student {
 
 // Create student 1
 const student1: Student = {
-  firstName: "Jojo",
-  lastName: "Lebigorneau",
-  age: 75,
-  location: "Monjardin"
+  firstName: "Yaki",
+  lastName: "Soja",
+  age: 2,
+  location: "Mesgenoux"
 }
 
 
 // Create student 2
 const student2: Student = {
-  firstName: "Nono",
-  lastName: "Lasticot",
-  age: 12,
-  location: "Materasse"
+  firstName: "Soba",
+  lastName: "Wasabi",
+  age: 2,
+  location: "Moncanap"
 }
 
 // Store students in a list
